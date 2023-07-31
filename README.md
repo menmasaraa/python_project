@@ -1,1 +1,1 @@
-# python_project
+# pygame_sample
